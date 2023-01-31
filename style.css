@@ -64,3 +64,25 @@ fieldset{
     display: flex;
     flex-direction: column;
 }
+
+
+@media(max-width:900px){
+    
+    .nav{
+        height: 60vh;
+    }
+
+    .tituloDoTexto{
+        
+        font-size: 15px;
+    }
+
+    .tamanhoDosInput{
+        width: 70%;
+        height: 10%;
+
+    }
+
+
+}
+    
